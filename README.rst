@@ -6,6 +6,6 @@
 
 |wavinghand| Hello, my name is Erik K. Nyquist. I am an embedded firmware/software developer based in San Diego, CA.
 
-|eyeglasses| Get a copy of my resume `here <ekn.io/resume>`_
+|eyeglasses| Get a copy of my resume `here <https://www.ekn.io/resume>`_
 
 |musicnote| Check out the music I make `here <https://www.ekn.io/music/>`_
